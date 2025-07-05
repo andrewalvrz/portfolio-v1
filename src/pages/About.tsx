@@ -78,7 +78,7 @@ const About: React.FC = () => {
                     </div>
                     Hello! I'm a software developer based in Penitas, Texas, currently pursuing a Bachelor’s degree in Computer Science at the University of Texas Rio Grande Valley (UTRGV). My journey into technology began at a young age, driven by a passion for problem-solving and creativity. My first experiences with programming involved modding games and building simple websites, sparking a lifelong interest in tech.
 two
-                    Before transferring to UTRGV, I earned an Associate’s degree in Biology from South Texas College. During this transfer time, I deepening my understanding of computer hardware and system management and Ultimately decided to pivot my career towards software development. This decision was fueled by my desire to create impactful solutions and contribute to the ever-evolving tech landscape.
+                    Before transferring to UTRGV, I earned an Associate’s degree in Biology from South Texas College. During this transfer time, I began deepening my understanding of computer hardware and system management and Ultimately decided to pivot my career towards software development. This decision was fueled by my desire to create impactful solutions and contribute to the ever-evolving tech landscape.
 
                     At UTRGV, I’m an active member of the Rocket Launchers Club as a Software Avionics Lead, where I collaborate with like-minded individuals on exciting aerospace projects. Additionally, I frequently attend hackathons, where I enjoy tackling challenges, learning from peers, and networking with other passionate developers. I value building strong connections within the tech community and sharing knowledge through collaboration and teamwork.
 
